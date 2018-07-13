@@ -124,7 +124,7 @@
  - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
  - [fixed-data-table](https://github.com/facebook/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
  - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
-
+ - [dx-react-grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based React data grid for Bootstrap and Material Design.
 
 ### Infinite Scroll
 
@@ -253,6 +253,7 @@
  - [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
  - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
  - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
+ - [dx-react-chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 
 
 ### Tree
